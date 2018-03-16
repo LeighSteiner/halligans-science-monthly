@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configuration</key>
+	<dict>
+		<key>SKConnectAutomaticallyKey</key>
+		<true/>
+		<key>SKOpenFiles</key>
+		<array>
+			<dict>
+				<key>path</key>
+				<string>archive.html</string>
+				<key>position</key>
+				<string>{0, 0}</string>
+			</dict>
+		</array>
+		<key>SKRemotePreviewURL</key>
+		<string></string>
+		<key>SKUploadAutomaticallyKey</key>
+		<true/>
+	</dict>
+	<key>file-configuration</key>
+	<dict>
+		<key>archive.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+		<key>archive_01.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+		<key>archive_02.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+		<key>special_911.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+		<key>special_gay.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+		<key>special_jokeosphere.html</key>
+		<dict>
+			<key>SKFileBundle</key>
+			<string>org.skti.bundles.html</string>
+		</dict>
+	</dict>
+	<key>format-version</key>
+	<integer>1</integer>
+	<key>local-metadata</key>
+	<dict>
+		<key>display-name</key>
+		<string>HSM</string>
+		<key>original-display-name</key>
+		<string>HSM</string>
+		<key>root-directory</key>
+		<string>/Users/dr_manhattan/Documents/workflow/HSM/HSM</string>
+	</dict>
+	<key>remote-metadata</key>
+	<dict/>
+	<key>type</key>
+	<integer>0</integer>
+</dict>
+</plist>
